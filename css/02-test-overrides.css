@@ -1,0 +1,27 @@
+#index.bg-dark,
+#index .bg-dark {
+	background-color: #333333 !important;
+}
+	h5, a.nav-link {
+	letter-spacing: 3px;
+	font-size-adjust: 0.35;
+}
+ul.nav {
+	padding-top: 25px;
+	vertical-align: bottom;
+}
+.bg-dark .text-secondary p,
+.bg-dark .text-secondary li, 
+.bg-dark .text-secondary h2 {
+	color: #adb5bd;
+}
+.hero-image {
+	background-image: url("../assets/hero-bg.jpg");
+	background-color: black;
+	height: 600px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+  }
+  
