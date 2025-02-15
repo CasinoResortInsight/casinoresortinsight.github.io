@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../PredictionLabsWebsite"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "casinoresortinsight.github.io"
+  }
+}
